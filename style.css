@@ -1,0 +1,145 @@
+body{
+    background-color: rgb(238, 234, 234);
+
+}
+.karobka{
+    height: 40px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  gap: 440px;
+  align-items: center;
+  
+}
+.riv1 img{
+    
+}
+.riv1{
+    display: flex;
+    align-items: center;
+}
+.riv2{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin-left: 60px;
+    font-size: small;
+}
+input{
+    border: 1px solid rgb(215, 212, 212);
+    border-radius: 3px;
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 98, 255);
+    border-radius: 3px;
+    border: 1px solid  rgb(0, 98, 255);
+}
+.karobka2{
+    background-color: white;
+    height: 200px;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.p2{
+    color: rgb(130, 129, 129);
+}
+.button1{
+    height: 30px;
+    border-radius: 10px;
+    background-color: green;
+    margin-left: 20px;
+}
+.karobka3{
+    margin-top: 40px;
+    display: flex;
+    gap: 20px;
+}
+.riv3{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 80px;
+    
+}
+.text4{
+    display: flex;
+    font-size: large;
+    color: rgb(0, 123, 255);
+    margin-top: 20px;
+}
+.text4 img{
+    margin-left: 20px;
+}
+.p1{
+    color:  rgb(130, 129, 129);
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.riv4{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 80px;
+}
+.text6 img{
+    margin-left: 20px;
+
+}
+.text6{
+  color:  rgb(0, 123, 255);
+  font-size: large;
+  display: flex ;
+  gap: 5px;
+  margin-top: 20px;
+}
+.p3{
+    color:  rgb(130, 129, 129);
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.riv5{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 80px;
+}
+.text8 img{
+    margin-left: 20px;
+}
+.text8{
+    color: rgb(0, 123, 255) ;
+    margin-top: 20px;
+    font-size: large;
+    display: flex;
+    gap: 3px;
+}
+.p4{
+    color: rgb(130, 129, 129) ;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.orta{
+
+    text-align: center;
+}
+.qiynamela{
+    color:  rgb(130, 129, 129);
+    text-align: center;
+    padding: 15px;
+    font-size: small;
+
+    
+}
+.karobka5{
+   background-color:  rgb(218, 214, 214);
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 40px;
+}
+b{
+    color: black;
+}
